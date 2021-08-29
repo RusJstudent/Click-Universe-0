@@ -1,1 +1,1 @@
-# WU-click-game
+https://rusjstudent.github.io/WU-click-game/
